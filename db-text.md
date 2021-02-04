@@ -21,6 +21,6 @@ Strutturate il file come fatto oggi in classe.  Specificate: il nome del databas
 - sistema_operativo  stringa VARCHAR NULL
 - lingua stringa VARCHAR(20) NOTNULL
 - preorder number TINYINT NOTNULL DEFAULT(0)
-- data_di_rialascio DATETIME NOTNULL
 - edizione_delux stringa number TINYINT NULL DEFAULT(0)
+- data_di_rialascio DATETIME NOTNULL
 <!-- /DATABSE -->
